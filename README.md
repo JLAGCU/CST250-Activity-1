@@ -24,6 +24,10 @@ Checking out with the Car added in the Shopping Cart:
 ![alt text](https://raw.githubusercontent.com/JLAGCU/CST250-Activity-1/main/Console%20App%204.png)
 
 
+User inputs a non-number when selecting an option:
+![alt text](https://raw.githubusercontent.com/JLAGCU/CST250-Activity-1/main/Console%20App%205.png)
+
+
 Initially running the application:
 
 ![alt text](https://github.com/JLAGCU/CST250-Activity-1/blob/main/Windows%20Form%201.png?raw=true)
@@ -47,3 +51,8 @@ Adding a car to the shopping cart from inventory:
 Checking out with the car from the shopping cart:
 
 ![alt text](https://github.com/JLAGCU/CST250-Activity-1/blob/main/Windows%20Form%205.png?raw=true)
+
+
+User inputs a non-number into the year or price:
+
+![alt text](https://github.com/JLAGCU/CST250-Activity-1/blob/main/Windows%20Form%206.png?raw=true)
